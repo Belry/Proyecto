@@ -1,0 +1,28 @@
+Usando una fila de guiones, se representa la palabra a adivinar, dando el numero de letras, numeros y
+categoria. Si el jugador adivinador sugiere una letra o numero que aparece en la palabra, el otro jugador la
+escribe en todas sus posiciones correctas. Si la letra o el numero sugerido no ocurre en la palabra, el otro
+jugador saca un elemento de la figura de hombre palo ahorcado como una marca de conteo. El juego
+termina cuando:
+El jugador adivinador completa la palabra, o adivina la
+palabra completa correctamente
+El otro jugador completa el diagrama:
+Este diagrama es, de hecho, disenado para parecerse a un hombre
+ahorcado. A pesar de que han surgido debates sobre el gusto
+cuestionable de esta imagen,1
+todavia esta en uso actualmente
+(2018). Una alternativa comun para maestros es dibujar un arbol de
+manzanas con diez manzanas, borrar o tachar las manzanas a
+medida que se agotan las adivinanzas.
+La naturaleza exacta de del diagrama difiere; algunos jugadores
+dibujan la horca antes de jugar y dibujan las partes del cuerpo del
+hombre (tradicionalmente la cabeza, luego el torso, luego los brazos
+y las piernas de uno en uno). Algunos jugadores comienzan con sin
+esquema en absoluto, y elaboran los elementos individuales de la
+horca como parte del juego, dandole al jugador mas posibilidades
+efectivas medida de adivinar. Tambien pueden presentar
+variaciones los detalles en el hombre, lo que afecta el numero de
+posibilidades. Algunos jugadores incluyen una cara en la cabeza, ya sea toda a la vez o una caracteristica a
+la vez.
+A veces se aplican algunas modificaciones al juego para aumentar el nivel de dificultad, tales como la
+limitacion de sobre las consonantes de alta frecuencia y las vocales. Otra alternativa es dar la definicion de
+la palabra. Esto puede ser utilizado para facilitar el aprendizaje de una lengua extranjera.
